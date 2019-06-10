@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+markdown: krandown
+title: Pagina Personal
+description: hello world
+show_downloads: True
