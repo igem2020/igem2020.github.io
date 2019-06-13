@@ -1,0 +1,164 @@
+ <!-- Integrantes section start -->
+        <div class="section primary-section" id="about">
+            <div class="triangle"></div>
+            <div class="container">
+                <div class="title">
+                    <h1>¿Quienes somos?</h1>
+                    <p>Duis mollis placerat quam, eget laoreet tellus tempor eu. Quisque dapibus in purus in dignissim.</p>
+                </div>
+                <div class="row-fluid team">
+                    <div class="span4" id="first-person">
+                        <div class="thumbnail">
+                            <img src="images/Team1.png" alt="team 1">
+                            <h3>Jesús Durand Calle</h3>         
+                            <div class="mask">
+                                <h2>Líder del equipo</h2>
+                                <p>Estudiante de Biología - UPCH</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="span4" id="second-person">
+                        <div class="thumbnail">
+                            <img src="images/Team2.png" alt="team 1">
+                            <h3>Valeria Villar Dávila</h3>                            
+                            <div class="mask">
+                                <h2>Responsable de biología sintética</h2>
+                                <p>Estudiante de Biología - UPCH</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="span4" id="third-person">
+                        <div class="thumbnail">
+                            <img src="images/Team3.png" alt="team 1">
+                            <h3>Elizabeth Sanchez Achulla</h3>                            
+                            <div class="mask">
+                                <h2>Responsable de relaciones humanas</h2>
+                                <p>?</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row-fluid team">
+                    <div class="span4" id="fourth-person">
+                        <div class="thumbnail">
+                            <img src="images/Team3.png" alt="team 1">
+                            <h3>Cristopher Amasifuén Sacsa</h3>                            
+                            <div class="mask">
+                                <h2>Responsable de relaciones comunitarias</h2>
+                                <p>Estudiante de Farmacia y Bioquímica - UPCH</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="span4" id="fifth-person">
+                        <div class="thumbnail">
+                            <img src="images/Team3.png" alt="team 1">
+                            <h3>Gerson Acero Huarcaya</h3>                            
+                            <div class="mask">
+                                <h2>Responsable del biorreactor</h2>
+                                <p>Estudiante de Biología - UPCH</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="span4" id="sixth-person">
+                        <div class="thumbnail">
+                            <img src="images/Team3.png" alt="team 1">
+                            <h3>Jorge Fernandez Manrique</h3>                            
+                            <div class="mask">
+                                <h2>Responsable del biorreactor</h2>
+                                <p>Estudiante de Biología - UPCH</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row-fluid team">
+                    <div class="span4" id="seventh-person">
+                        <div class="thumbnail">
+                            <img src="images/Team3.png" alt="team 1">
+                            <h3>Matías Rojas Montero</h3>                            
+                            <div class="mask">
+                                <h2>Responsable de bioinformática y microbiología</h2>
+                                <p>Estudiante de biología - UPCH</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="span4" id="eighth-person">
+                        <div class="thumbnail">
+                            <img src="images/Team3.png" alt="team 1">
+                            <h3>Diego Benites Tan</h3>                            
+                            <div class="mask">
+                                <h2>Responsable de bioinformática y microbiología</h2>
+                                <p>Estudiante de biología - UPCH</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="span4" id="ninth-person">
+                        <div class="thumbnail">
+                            <img src="images/Team3.png" alt="team 1">
+                            <h3>María Teresa Castromonte Albinagorta</h3>                            
+                            <div class="mask">
+                                <h2>Responsable de bioinformática y microbiología</h2>
+                                <p>Estudiante de Biología - UPCH</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="span4" id="tenth-person">
+                        <div class="thumbnail">
+                            <img src="images/Team3.png" alt="team 1">
+                            <h3>María Carolina Ortiz Cáceres</h3>                            
+                            <div class="mask">
+                                <h2>Responsable de bioinformática y microbiología</h2>
+                                <p>Estudiante de Biología - UPCH</p>
+                            </div>
+                        </div>
+                    </div>
+                   </div>            
+                        <div class="thumbnail">
+                            <img src="images/Team3.png" alt="team 1">
+                            <h3>Oswaldo Lescano Ososrio</h3>                            
+                            <div class="mask">
+                                <h2>Responsable de pruebas <i>in vitro</i></h2>
+                                <p>Estudiante de Química - UPCH</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="span4" id="twelveth-person">
+                        <div class="thumbnail">
+                            <img src="images/Team3.png" alt="team 1">
+                            <h3>Nilthon Mendoza Huallamares</h3>                            
+                            <div class="mask">
+                                <h2>Responsable de pruebas <i>in vitro</i></h2>
+                                <p>Estudiante de Química - UPCH</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="span4" id="thirdteenth-person">
+                        <div class="thumbnail">
+                            <img src="images/Team3.png" alt="team 1">
+                            <h3>Cristopher Polanco Infanzón</h3>                            
+                            <div class="mask">
+                                <h2>Responsable de pruebas <i>in vitro</i></h2>
+                                <p>Estudiante de Biología - UPCH</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="span4" id="fourteenth-person">
+                        <div class="thumbnail">
+                            <img src="images/Team3.png" alt="team 1">
+                            <h3>Nadir Gómez Roncal</h3>                            
+                            <div class="mask">
+                                <h2>Responsable de ?</i></h2>
+                                <p>Estudiante de Medicina - UPCH</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="span4" id="fifteenth-person">
+                        <div class="thumbnail">
+                            <img src="images/Team3.png" alt="team 1">
+                            <h3>María Isabel Ruiz Ruiz</h3>                            
+                            <div class="mask">
+                                <h2>Responsable de diseño web</h2>
+                                <p>Estudiante de Biología - UPCH</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
